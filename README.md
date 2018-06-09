@@ -1,2 +1,2 @@
 # jsfromscratch
-js stack from scratch
+Learning JS stack from scratch.
